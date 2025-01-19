@@ -12,6 +12,5 @@ class Solution:
                 r = mid
             else:
                 l = mid + 1
-                r -= 1
         return l 
         
